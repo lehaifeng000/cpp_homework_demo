@@ -11,5 +11,5 @@ Student::~Student()
 }
 
 void Student::print(){
-    cout<<"student pring"<<endl;
+    cout<<"this is student print method"<<endl;
 }
